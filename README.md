@@ -1,6 +1,6 @@
 # Packing List 4 U
 
-### Packing List 4 U is a React Native iOS application built as a resource for travelers to who are in the process of packing for a trip and puts ease to the common thought, "Did I forget something?".
+### Packing List 4 U is a React Native iOS application built as a resource for travelers who are in the process of packing for a trip and puts ease to the common thought, "Did I forget something?".
 
 <!--  Put Deployed Link here-->
 
