@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Packing List",
+    "slug": "Packing-List",
+    "version": "1.2.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/SplashScreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sophiaorlando.packinglist"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "An all encompassing packing list"
+  }
+}
